@@ -50,3 +50,10 @@ R² Score
 7. Results
 
 Best Model: Random Forest Regressor
+
+🌟 Key Learnings (updated)
+1.Implemented an end-to-end ML pipeline combining preprocessing, modeling, and tuning
+
+2.Applied unsupervised learning techniques to gain deeper insights into data patterns
+
+3.Improved understanding of dimensionality reduction with PCA
